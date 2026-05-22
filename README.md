@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.pixabay.com/animation/2025/02/04/01/20/01-20-14-933_256.gif" width="120" height="120" style="border-radius: 50%;" />
-  <img src="https://cdn.pixabay.com/animation/2025/06/02/00/11/00-11-22-330_512.gif" width="120" height="120" style="border-radius: 50%;" />
+  <img src="https://cdn.pixabay.com/animation/2025/02/04/01/20/01-20-14-933_256.gif" width="200px" height="200px" style="border-radius: 50%;" />
+  <img src="https://cdn.pixabay.com/animation/2025/06/02/00/11/00-11-22-330_512.gif" width="200px" height="200px" style="border-radius: 50%;" />
 </div>
 
 
