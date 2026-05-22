@@ -2,8 +2,8 @@
   <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=272625&colorEnd=740901&height=180&section=header&text=Bienvenido%2Fa+a+mi+perfil%21&fontSize=30&fontColor=ffffff&animation=wave&gradientDirection=vertical&parallax=true&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=true&textAlignX=50&textAlignY=33&rtl=24&rtr=24&rbr=0&rbl=0" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/FrankPaterninaEDN.png" width=250px height=250px style="border-radius: 50%;" />
+<div style="border-radius: 50%; overflow: hidden; width: 250px; height: 250px; margin: 0 auto;">
+  <img src="https://github.com/FrankPaterninaEDN.png" width="250" height="250" />
 </div>
 
 <div align="center">
