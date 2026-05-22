@@ -1,52 +1,87 @@
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=272625&colorEnd=740901&height=180&section=header&text=Bienvenido%2Fa+a+mi+perfil%21&fontSize=30&fontColor=ffffff&animation=wave&gradientDirection=vertical&parallax=true&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=true&textAlignX=50&textAlignY=33&rtl=24&rtr=24&rbr=0&rbl=0" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Frank%20Paternina&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=Software%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55&animation=fadeIn"/>
+
 </div>
+
+---
+
+<h1 align="center">👋 Hola, soy Frank Paternina</h1>
+
+<h3 align="center">
+💻 Practicante en Análisis y Desarrollo de Software
+</h3>
+
+<p align="center">
+Apasionado por la tecnología, el desarrollo web y el aprendizaje constante.<br>
+Me enfoco en crear soluciones digitales modernas mientras fortalezco mis habilidades como desarrollador.
+</p>
+
+---
+
+## 🚀 Sobre mí
+
+- 🎓 Practicante en análisis y desarrollo de software
+- 💻 Enfocado en desarrollo web y aplicaciones
+- ⚡ Aprendiendo constantemente nuevas tecnologías
+- 🎯 Objetivo: Convertirme en un gran Software Developer
+- 🎬 Fan del cine, la música y la creatividad digital
+
+---
+
+## 🌐 Conecta conmigo
 
 <div align="center">
-  <img src="https://github.com/github.png" width="120" height="120" style="border-radius: 50%;" />
+
+<a href="mailto:frank.orono@edncolombia.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/FrankPaterninaEDN">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
-<h1 align="center">Hola! Soy Frank Paternina, Analista y Desarrollador de Software 🎓</h1>
+---
 
-<p align="center">Soy practicante en análisis y desarrollo de software, apasionado por la tecnología, el desarrollo web y el aprendizaje constante. Me caracterizo por ser una persona disciplinada, paciente y competitiva, enfocada en mejorar mis habilidades en programación y creación de soluciones digitales.</p>
+## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frank.orono@edncolombia.com)
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,mysql,mongodb,firebase,supabase,git,github,docker,postman,vscode,tailwind,bootstrap,flutter,dart&theme=dark" />
+
 </div>
+
+---
+
+## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/divider?bgType=gradient&thickness=2&alignment=center&bgSolidColor=FF6B6B&bgStartColor=FF6B6B&bgEndColor=4ECDC4&bgGradientDirection=horizontal" alt="Divider" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrankPaterninaEDN&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankPaterninaEDN&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-<h2 align="center">Technologies I Know 🛠️</h2>
+---
+
+## 🔥 Racha de contribuciones
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,git,github,vscode,nextjs,express,dart,flutter,tailwind,bootstrap,mongodb,materialui,mysql,firebase,supabase,docker,postman&perline=9&theme=dark" />
+
+<img src="https://streak-stats.demolab.com?user=FrankPaterninaEDN&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/divider?bgType=gradient&thickness=2&alignment=center&bgSolidColor=FF6B6B&bgStartColor=FF6B6B&bgEndColor=4ECDC4&bgGradientDirection=horizontal" alt="Divider" />
-</div>
+---
 
-<h2 align="center">My GitHub Journey 📊</h2>
+## 🧠 Actualmente aprendiendo
 
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/stats?username=FrankPaterninaEDN&theme=tokyonight&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=10" alt="GitHub Stats" width="49%" height="230" style="margin-right: 12px;" />
-  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=FrankPaterninaEDN&theme=tokyonight&layout=compact&hide_border=false&hide_progress=false&langs_count=6&border_radius=10" alt="Top Languages" width="49%" height="230" style="" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/streak?username=FrankPaterninaEDN&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/quotes?theme=tokyonight&quote=Giving+up+up+is+not+an+opcion&author=Luka+modric&textAlign=center&authorAlign=center" alt="Quote" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FrankPaterninaEDN&color=blue&style=flat&label=Profile%20Views" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2880C3&center=true&vCenter=true&width=700&height=30&lines=Programando%20.%20.%20.%20%3BIngeniero%20coming%20soon%20.%20.%20.%20%3BLa%20la%20la%20tranquilidad%20no%20tiene%20precio" alt="Typing SVG" />
-</div>
+```txt
+⚛️ React & Next.js
+🐳 Docker
+📱 Flutter
+☁️ Backend & APIs
+🛢️ Bases de datos SQL y NoSQL
