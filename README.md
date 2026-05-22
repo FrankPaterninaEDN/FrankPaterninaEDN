@@ -2,13 +2,9 @@
   <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=272625&colorEnd=740901&height=180&section=header&text=Bienvenido%2Fa+a+mi+perfil%21&fontSize=30&fontColor=ffffff&animation=wave&gradientDirection=vertical&parallax=true&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=true&textAlignX=50&textAlignY=33&rtl=24&rtr=24&rbr=0&rbl=0" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github.com/github.png" width="120" height="120" style="border-radius: 50%;" />
+  <img src="https://github.com/FrankPaterninaEDN" width="120" height="120" style="border-radius: 50%;" />
 </div>
-
-<br/>
 
 <div align="center">
   <a href="mailto:frank.orono@edncolombia.com">
