@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/FrankPaterninaEDN" width="120" height="120" style="border-radius: 50%;" />
+  <img src="https://github.com/FrankPaterninaEDN.png" width="120" height="120" style="border-radius: 50%;" />
 </div>
 
 <div align="center">
