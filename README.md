@@ -9,7 +9,7 @@
     src="https://github.com/FrankPaterninaEDN.png"
     width="130"
     height="130"
-    style="width:250px; height:250px; border-radius:100%; object-fit:cover;"
+    style="width:250px; height:250px; border:50%; object-fit:cover;"
   />
 </div>
 
