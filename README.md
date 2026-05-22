@@ -5,7 +5,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/FrankPaterninaEDN.png" width="130" height="130" style="border-radius: 50%; border: 3px solid #740901;" />
+  <img 
+    src="https://github.com/FrankPaterninaEDN.png" 
+    width="130" 
+    height="130" 
+    style="border-radius: 50%; object-fit: cover; border: 3px solid #740901;"
+  />
 </div>
 
 <br/>
