@@ -17,6 +17,11 @@ Apasionado por la tecnología, el desarrollo web y el aprendizaje constante.<br>
 Me enfoco en crear soluciones digitales modernas mientras fortalezco mis habilidades como desarrollador.
 </p>
 
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2880C3&center=true&vCenter=true&width=700&height=30&lines=Programando%20.%20.%20.%20%3BIngeniero%20coming%20soon%20.%20.%20.%20%3BLa%20la%20la%20tranquilidad%20no%20tiene%20precio" alt="Typing SVG" />
+</div>
+
 ---
 
 ## 🚀 Sobre mí
