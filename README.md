@@ -4,10 +4,10 @@
 
 <br/>
 
-<div align="center">
+<div align="center" style="border-radius:50%">
   <img
     src="https://github.com/FrankPaterninaEDN.png"
-    style="width:250px; height:250px; border:50%; object-fit:cover;"
+    style="width:250px; height:250px; border-radius:50%; object-fit:cover;"
   />
 </div>
 
