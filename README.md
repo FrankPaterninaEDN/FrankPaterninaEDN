@@ -4,11 +4,8 @@
 
 <br/>
 
-<div align="center" style="border-radius:50%">
-  <img
-    src="https://github.com/FrankPaterninaEDN.png"
-    style="width:250px; height:250px; border-radius:50%; object-fit:cover;"
-  />
+<div align="center">
+  <img src="https://github.com/github.png" width="120" height="120" style="border-radius: 50%;" />
 </div>
 
 <br/>
