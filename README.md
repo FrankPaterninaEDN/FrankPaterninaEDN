@@ -74,9 +74,7 @@ objetivo:   Convertirme en Ingeniero de Software 🎯
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrankPaterninaEDN&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankPaterninaEDN&theme=tokyonight&layout=compact&border_radius=10&hide_border=false&langs_count=7" width="49%" />
-</div>
+  <img src="https://github-profile-maker.vercel.app/api/stats?username=FrankPaterninaEDN&theme=tokyonight&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=10" alt="GitHub Stats" width="49%" height="230" style="margin-right: 12px;" />
 
 <br/>
 
