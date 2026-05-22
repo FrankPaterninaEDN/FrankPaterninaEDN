@@ -17,7 +17,7 @@
 
 <div align="center">
   <a href="mailto:frank.orono@edncolombia.com">
-    <img src="https://img.shields.io/badge/✉️%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
