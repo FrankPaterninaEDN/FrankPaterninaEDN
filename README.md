@@ -9,7 +9,7 @@
 <div align="center">
   
   <a href="https://github.com/FrankPaterninaEDN">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Hola%2C+soy+Frank+%F0%9F%91%8B;Construyendo+soluciones+digitales+%F0%9F%9A%80;Futuro+Ingeniero+de+Software+%F0%9F%8E%AF;Rendirse+no+es+una+opci%C3%B3n+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Hola%2C+soy+Frank+%F0%9F%91%8B;Futuro+Ingeniero+de+Software+%F0%9F%8E%AF;Rendirse+no+es+una+opci%C3%B3n+%E2%9A%A1" alt="Typing SVG" />
   </a>
 
 </div>
