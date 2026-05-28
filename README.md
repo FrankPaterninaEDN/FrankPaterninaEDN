@@ -57,9 +57,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="100%" />
-</div>
+---
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                          SOBRE MÍ                                    ║ -->
@@ -82,9 +80,7 @@ const frank = {
 };
 ```
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="100%" />
-</div>
+---
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                          STACK TECNOLÓGICO                           ║ -->
@@ -173,9 +169,7 @@ const frank = {
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="100%" />
-</div>
+---
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                          PROYECTOS DESTACADOS                        ║ -->
@@ -209,9 +203,7 @@ const frank = {
 
 > 💡 **Tip:** Reemplaza `NOMBRE-DEL-REPO-1`, `NOMBRE-DEL-REPO-2`, etc. por los nombres exactos de los repositorios que quieras destacar.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="100%" />
-</div>
+---
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                          GITHUB STATS                                ║ -->
@@ -254,9 +246,7 @@ const frank = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrankPaterninaEDN&theme=tokyo-night&bg_color=1a1b27&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true&area=true&radius=10" width="98%" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="100%" />
-</div>
+---
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                          FRASE                                       ║ -->
