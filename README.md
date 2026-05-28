@@ -117,7 +117,7 @@ const frank = {
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node" width="55" height="55" />
+        <img src="https://skillicons.dev/icons?i=nodejs" />
       <br>Node.js
     </td>
     <td align="center" width="96">
@@ -137,7 +137,7 @@ const frank = {
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=mongodb" />
       <br>MongoDB
     </td>
   </tr>
@@ -155,7 +155,7 @@ const frank = {
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=git" />
       <br>Git
     </td>
     <td align="center" width="96">
@@ -168,40 +168,6 @@ const frank = {
     </td>
   </tr>
 </table>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          PROYECTOS DESTACADOS                        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-## 🚀 Proyectos Destacados
-
-<!--
-  ⚠️ IMPORTANTE: Reemplaza NOMBRE-DEL-REPO-X con los nombres reales de tus repositorios.
-  Si un repo no existe, la card mostrará un error. Borra las cards que no uses.
-  Estamos usando "github-readme-stats-fast" porque el original (vercel.app) está caído.
--->
-
-<div align="center">
-  <a href="https://github.com/FrankPaterninaEDN/NOMBRE-DEL-REPO-1">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=FrankPaterninaEDN&repo=NOMBRE-DEL-REPO-1&theme=tokyonight&hide_border=false&border_radius=10" />
-  </a>
-  <a href="https://github.com/FrankPaterninaEDN/NOMBRE-DEL-REPO-2">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=FrankPaterninaEDN&repo=NOMBRE-DEL-REPO-2&theme=tokyonight&hide_border=false&border_radius=10" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/FrankPaterninaEDN/NOMBRE-DEL-REPO-3">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=FrankPaterninaEDN&repo=NOMBRE-DEL-REPO-3&theme=tokyonight&hide_border=false&border_radius=10" />
-  </a>
-  <a href="https://github.com/FrankPaterninaEDN/NOMBRE-DEL-REPO-4">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=FrankPaterninaEDN&repo=NOMBRE-DEL-REPO-4&theme=tokyonight&hide_border=false&border_radius=10" />
-  </a>
-</div>
-
-> 💡 **Tip:** Reemplaza `NOMBRE-DEL-REPO-1`, `NOMBRE-DEL-REPO-2`, etc. por los nombres exactos de los repositorios que quieras destacar.
 
 ---
 
