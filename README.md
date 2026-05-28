@@ -303,17 +303,3 @@ const frank = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer" />
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FrankPaterninaEDN&color=740901&style=for-the-badge&label=Visitas+al+Perfil" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2880C3&center=true&vCenter=true&width=700&height=30&lines=Programando%20.%20.%20.%20%3BIngeniero%20coming%20soon%20.%20.%20.%20%3BLa%20la%20la%20tranquilidad%20no%20tiene%20precio" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:740901,100:0d1117&height=120&section=footer" />
-</div>
