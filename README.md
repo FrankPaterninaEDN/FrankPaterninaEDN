@@ -65,7 +65,7 @@
 <!-- ║                          SOBRE MÍ                                    ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
-## <img src="https://media.giphy.com/media/2Je8XzG3I7yo8/giphy.gif" width="40px"> Sobre mí
+## 👨‍💻 Sobre mí
 
 ```typescript
 const frank = {
@@ -183,25 +183,31 @@ const frank = {
 
 ## 🚀 Proyectos Destacados
 
+<!--
+  ⚠️ IMPORTANTE: Reemplaza NOMBRE-DEL-REPO-X con los nombres reales de tus repositorios.
+  Si un repo no existe, la card mostrará un error. Borra las cards que no uses.
+  Estamos usando "github-readme-stats-fast" porque el original (vercel.app) está caído.
+-->
+
 <div align="center">
-  <a href="https://github.com/FrankPaterninaEDN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrankPaterninaEDN&repo=NOMBRE-DEL-REPO-1&theme=tokyonight&hide_border=false&border_radius=10" />
+  <a href="https://github.com/FrankPaterninaEDN/NOMBRE-DEL-REPO-1">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=FrankPaterninaEDN&repo=NOMBRE-DEL-REPO-1&theme=tokyonight&hide_border=false&border_radius=10" />
   </a>
-  <a href="https://github.com/FrankPaterninaEDN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrankPaterninaEDN&repo=NOMBRE-DEL-REPO-2&theme=tokyonight&hide_border=false&border_radius=10" />
+  <a href="https://github.com/FrankPaterninaEDN/NOMBRE-DEL-REPO-2">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=FrankPaterninaEDN&repo=NOMBRE-DEL-REPO-2&theme=tokyonight&hide_border=false&border_radius=10" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/FrankPaterninaEDN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrankPaterninaEDN&repo=NOMBRE-DEL-REPO-3&theme=tokyonight&hide_border=false&border_radius=10" />
+  <a href="https://github.com/FrankPaterninaEDN/NOMBRE-DEL-REPO-3">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=FrankPaterninaEDN&repo=NOMBRE-DEL-REPO-3&theme=tokyonight&hide_border=false&border_radius=10" />
   </a>
-  <a href="https://github.com/FrankPaterninaEDN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrankPaterninaEDN&repo=NOMBRE-DEL-REPO-4&theme=tokyonight&hide_border=false&border_radius=10" />
+  <a href="https://github.com/FrankPaterninaEDN/NOMBRE-DEL-REPO-4">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=FrankPaterninaEDN&repo=NOMBRE-DEL-REPO-4&theme=tokyonight&hide_border=false&border_radius=10" />
   </a>
 </div>
 
-> 💡 **Tip:** Reemplaza `NOMBRE-DEL-REPO-1`, `NOMBRE-DEL-REPO-2`, etc. con los nombres exactos de tus repositorios que quieras destacar. También puedes fijar repos directamente desde tu perfil de GitHub.
+> 💡 **Tip:** Reemplaza `NOMBRE-DEL-REPO-1`, `NOMBRE-DEL-REPO-2`, etc. por los nombres exactos de los repositorios que quieras destacar.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="100%" />
@@ -214,12 +220,12 @@ const frank = {
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrankPaterninaEDN&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankPaterninaEDN&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&langs_count=8" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=FrankPaterninaEDN&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FrankPaterninaEDN&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&langs_count=8" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrankPaterninaEDN&theme=tokyonight&hide_border=false&border_radius=10" width="75%" />
+  <img src="https://streak-stats.demolab.com?user=FrankPaterninaEDN&theme=tokyonight&hide_border=false&border_radius=10" width="75%" />
 </div>
 
 <br/>
@@ -231,8 +237,8 @@ const frank = {
 ## 🏆 Trofeos de GitHub
 
 <div align="center">
-  <a href="https://github.com/FrankPaterninaEDN">
-    <img src="https://github-profile-trophy.vercel.app/?username=FrankPaterninaEDN&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&row=2&column=4" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=FrankPaterninaEDN&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&row=2&column=4&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,MultipleLang,Experience" />
   </a>
 </div>
 
@@ -247,22 +253,6 @@ const frank = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrankPaterninaEDN&theme=tokyo-night&bg_color=1a1b27&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true&area=true&radius=10" width="98%" />
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="100%" />
-</div>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          SERPIENTE DE COMMITS                        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-## 🐍 Mis Contribuciones
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/FrankPaterninaEDN/FrankPaterninaEDN/output/github-contribution-grid-snake-dark.svg" width="98%" />
-</div>
-
-> ⚙️ Para activar la serpiente, configura el workflow de GitHub Actions con [Platane/snk](https://github.com/Platane/snk)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="100%" />
