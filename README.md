@@ -29,8 +29,6 @@
         <img src="https://img.shields.io/badge/💻_Estado-Programando-00D9FF?style=for-the-badge&labelColor=0d1117" /><br/>
         <img src="https://img.shields.io/badge/🎯_Objetivo-Ingeniero_de_Software-FF6B6B?style=for-the-badge&labelColor=0d1117" /><br/>
         <img src="https://img.shields.io/badge/📍_Ubicación-Colombia_🇨🇴-FFD93D?style=for-the-badge&labelColor=0d1117" /><br/>
-        <img src="https://img.shields.io/badge/🌱_Aprendiendo-Cloud_&_DevOps-6BCB77?style=for-the-badge&labelColor=0d1117" /><br/>
-        <img src="https://img.shields.io/badge/🤝_Disponible-Open_to_Work-9B72CF?style=for-the-badge&labelColor=0d1117" />
       </td>
     </tr>
   </table>
